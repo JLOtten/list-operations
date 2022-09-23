@@ -12,6 +12,7 @@ def head(input_list):
 
     return input_list[0]
 
+    # hello
 
 def tail(input_list):
     """Return a new list of all items, excluding the first item.
